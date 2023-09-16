@@ -10,3 +10,36 @@ button {
     color: rgb(0, 0, 0);
     box-shadow: 5px 5px 5px black;
 }
+
+p {
+    font-family: 'Times New Roman', sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+    display: inline-block;
+  width: 800px;
+  height: 120px;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: yellow;
+}
+
+#small-para {
+    display: block;
+  width: 800px;
+  height: 80px;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: yellow;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
